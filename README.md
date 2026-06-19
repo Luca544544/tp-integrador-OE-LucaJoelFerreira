@@ -108,7 +108,9 @@ validación administrativa de la empresa, ejecuta:
 
 python aprobar_proveedor.py
 
-**Tecnologías Utilizadas**
+---
+
+## Tecnologías Utilizadas
 
   - Lenguaje: Python
   - Plataforma: Telegram Bot API (Librería pyTelegramBotAPI)
