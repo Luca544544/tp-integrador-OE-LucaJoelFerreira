@@ -1,13 +1,3 @@
-A continuación, te presento una propuesta para el archivo README.md de tu
-repositorio de GitHub.
-
-Está diseñado con una estructura profesional y limpia, ideal para una entrega
-académica. Se han utilizado separadores y tablas en lugar de emojis coloridos
-para mantener la estética sobria y legible que prefieres.
-
-Los datos sensibles y personales están indicados claramente entre corchetes
-[...] para que los completes antes de subirlo.
-
 # Trabajo Práctico Integrador: Automatización de Procesos (Alta de Proveedores)
 ## Cátedra: Organización Empresarial
 ### Tecnicatura Universitaria en Programación - UTN
@@ -24,7 +14,7 @@ El desarrollo implementa una **Máquina de Estados** para gestionar la conversac
 * **Carrera:** Tecnicatura Universitaria en Programación (A Distancia)
 * **Materia:** Organización Empresarial
 * **Estudiante(s):** 
-  * [TU_NOMBRE_COMPLETO_AQUÍ] - [TU_LEGAJO_O_DNI]
+  * Luca Joel Ferreira
 * **Cuerpo de Docentes:**
   * Prof. Gabriela Martínez (titular)
   * Prof. Carolina Bruno, Prof. Mario Raúl López, Prof. Andrea Ramos (adjuntos)
